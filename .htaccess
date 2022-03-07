@@ -10,7 +10,7 @@ RewriteBase /seagullfinancials/
 RewriteRule ^index\.php$ - [L]
 RewriteCond %{REQUEST_FILENAME} !-f
 RewriteCond %{REQUEST_FILENAME} !-d
-RewriteRule . /seagullfinancials/index.php [L]
+RewriteRule . /seagullfinancial/index.php [L]
 </IfModule>
 php_value memory_limit 600
 # END WordPress
