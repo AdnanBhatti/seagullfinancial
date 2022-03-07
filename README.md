@@ -1,2 +1,2 @@
-# seagullfinancials
-seagullfinancials
+# seagullfinancial
+seagullfinancial
